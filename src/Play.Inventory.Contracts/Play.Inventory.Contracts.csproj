@@ -2,8 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <TargetFramework>net5.0</TargetFramework>
-     <PackageDescription>Inventory Contracts used by Play Economy services.</PackageDescription>
+    <PackageDescription>Inventory Contracts used by Play Economy services.</PackageDescription>
     <Authors>Kristian Ganchev</Authors>
     <Company>krisganchev</Company>
   </PropertyGroup>
